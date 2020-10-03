@@ -2,10 +2,7 @@
 
 [![JacyL4's github stats](https://github-readme-stats.vercel.app/api?username=jacyl4)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="#">
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=jacyl4&show_icons=true&hide_border=false&icon_color=586069&title_color=a0a9af">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacyl4&layout=compact&hide_border=true&title_color=a0a9af">
-</a>
 
 <!--
 **jacyl4/jacyl4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
