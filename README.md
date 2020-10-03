@@ -2,7 +2,7 @@
 
 <a href="#">
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=jacyl4&show_icons=true&hide_border=true&icon_color=83a598&title_color=8ec07c">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacyl4&layout=compact&hide_border=true&title_color=cc241d">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacyl4&layout=compact&hide_border=true&title_color=d3869b">
 </a>
 
 <!--
